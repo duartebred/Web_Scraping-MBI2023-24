@@ -1,0 +1,348 @@
+LOCUS       NM_198510               4964 bp    mRNA    linear   PRI 25-DEC-2022
+DEFINITION  Homo sapiens inter-alpha-trypsin inhibitor heavy chain family
+            member 6 (ITIH6), mRNA.
+ACCESSION   NM_198510 XM_293311
+VERSION     NM_198510.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4964)
+  AUTHORS   Luck K, Kim DK, Lambourne L, Spirohn K, Begg BE, Bian W, Brignall
+            R, Cafarelli T, Campos-Laborie FJ, Charloteaux B, Choi D, Cote AG,
+            Daley M, Deimling S, Desbuleux A, Dricot A, Gebbia M, Hardy MF,
+            Kishore N, Knapp JJ, Kovacs IA, Lemmens I, Mee MW, Mellor JC,
+            Pollis C, Pons C, Richardson AD, Schlabach S, Teeking B, Yadav A,
+            Babor M, Balcha D, Basha O, Bowman-Colin C, Chin SF, Choi SG,
+            Colabella C, Coppin G, D'Amata C, De Ridder D, De Rouck S,
+            Duran-Frigola M, Ennajdaoui H, Goebels F, Goehring L, Gopal A,
+            Haddad G, Hatchi E, Helmy M, Jacob Y, Kassa Y, Landini S, Li R, van
+            Lieshout N, MacWilliams A, Markey D, Paulson JN, Rangarajan S,
+            Rasla J, Rayhan A, Rolland T, San-Miguel A, Shen Y, Sheykhkarimli
+            D, Sheynkman GM, Simonovsky E, Tasan M, Tejeda A, Tropepe V,
+            Twizere JC, Wang Y, Weatheritt RJ, Weile J, Xia Y, Yang X,
+            Yeger-Lotem E, Zhong Q, Aloy P, Bader GD, De Las Rivas J, Gaudet S,
+            Hao T, Rak J, Tavernier J, Hill DE, Vidal M, Roth FP and Calderwood
+            MA.
+  TITLE     A reference map of the human binary protein interactome
+  JOURNAL   Nature 580 (7803), 402-408 (2020)
+   PUBMED   32296183
+REFERENCE   2  (bases 1 to 4964)
+  AUTHORS   Clark HF, Gurney AL, Abaya E, Baker K, Baldwin D, Brush J, Chen J,
+            Chow B, Chui C, Crowley C, Currell B, Deuel B, Dowd P, Eaton D,
+            Foster J, Grimaldi C, Gu Q, Hass PE, Heldens S, Huang A, Kim HS,
+            Klimowski L, Jin Y, Johnson S, Lee J, Lewis L, Liao D, Mark M,
+            Robbie E, Sanchez C, Schoenfeld J, Seshagiri S, Simmons L, Singh J,
+            Smith V, Stinson J, Vagts A, Vandlen R, Watanabe C, Wieand D, Woods
+            K, Xie MH, Yansura D, Yi S, Yu G, Yuan J, Zhang M, Zhang Z, Goddard
+            A, Wood WI, Godowski P and Gray A.
+  TITLE     The secreted protein discovery initiative (SPDI), a large-scale
+            effort to identify novel human secreted and transmembrane proteins:
+            a bioinformatics assessment
+  JOURNAL   Genome Res 13 (10), 2265-2270 (2003)
+   PUBMED   12975309
+  REMARK    Erratum:[Genome Res. 2003 Dec;13(12):2759]
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from Z98046.1, AY358170.1 and
+            CA413764.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On May 17, 2019 this sequence version replaced NM_198510.2.
+            
+            Summary: The protein encoded by this gene belongs to the interalpha
+            trypsin inhibitor heavy chain (ITIH) family. Interalpha trypsin
+            inhibitor (ITI) is composed of two heavy chains (containing VWA
+            domain) and one light chain. The light chain confers the
+            protease-inhibitor function, while the heavy chains are involved in
+            mediating protein-protein interactions with the components of the
+            extracellular matrix. [provided by RefSeq, Sep 2009].
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AY358170.1 [ECO:0000332]
+            RNAseq introns              :: mixed sample support SAMEA1968832,
+                                           SAMEA2142853 [ECO:0006172]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000218436.7/ ENSP00000218436.6
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-15                Z98046.1           42443-42457         c
+            16-4699             AY358170.1         1-4684
+            4700-4964           CA413764.1         37-301              c
+FEATURES             Location/Qualifiers
+     source          1..4964
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /map="Xp11.22"
+     gene            1..4964
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /note="inter-alpha-trypsin inhibitor heavy chain family
+                     member 6"
+                     /db_xref="GeneID:347365"
+                     /db_xref="HGNC:HGNC:28907"
+     exon            1..147
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             46..3987
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /note="ITI-like protein; inter-alpha-trypsin inhibitor
+                     heavy chain H5-like protein; inter-alpha inhibitor H5-like
+                     protein; inter-alpha-trypsin inhibitor heavy chain H6"
+                     /codon_start=1
+                     /product="inter-alpha-trypsin inhibitor heavy chain H6
+                     precursor"
+                     /protein_id="NP_940912.1"
+                     /db_xref="CCDS:CCDS14361.1"
+                     /db_xref="GeneID:347365"
+                     /db_xref="HGNC:HGNC:28907"
+                     /translation="MSGWRYLICVSFLLTILLELTYQGPPVPASSSTKLLMTSYSMRS
+                     TVVSRYAHTLVTSVLFNPHAEAHEAIFDLDLPHLAFISNFTMTINNKVYIAEVKEKHQ
+                     AKKIYEEAHQQGKTAAHVGIRDRESEKFRISTSLAAGTEVTFSLAYEELLQRHQGQYQ
+                     LVVSLRPGQLVKRLSIEVTVSERTGISYVHIPPLRTGRLRTNAHASEVDSPPSTRIER
+                     GETCVRITYCPTLQDQSSISGSGIMADFLVQYDVVMEDIIGDVQIYDDYFIHYFAPRG
+                     LPPMEKNVVFVIDVSSSMFGTKMEQTKTAMNVILSDLQANDYFNIISFSDTVNVWKAG
+                     GSIQATIQNVHSAKDYLHCMEADGWTDVNSALLAAASVLNHSNQEPGRGPSVGRIPLI
+                     IFLTDGEPTAGVTTPSVILSNVRQALGHRVSLFSLAFGDDADFTLLRRLSLENRGIAR
+                     RIYEDTDAALQLKGLYEEISMPLLADVRLNYLGGLVGASPWAVFPNYFGGSELVVAGQ
+                     VQPGKQELGIHLAARGPKDQLLVAHHSEGATNNSQKAFGCPGEPAPNVAHFIRRLWAY
+                     VTIGELLDAHFQARDTTTRHLLAAKVLNLSLEYNFVTPLTSLVMVQPKQASEETRRQT
+                     STSAGPDTIMPSSSSRHGLGVSTAQPALVPKVISPKSRPVKPKFYLSSTTTASTKKML
+                     SSKELEPLGESPHTLSMPTYPKAKIPAQQDSGTLAQPTLRTKPTILVPSNSGTLLPLK
+                     PGSLSHQNPDILPTNSRTQVPPVKPGIPASPKADTVKCVTPLHSKPGAPSHPQLGALT
+                     SQAPKGLPQSRPGVSTLQVPKYPLHTRPRVPAPKTRNNMPHLGPGILLSKTPKILLSL
+                     KPSAPPHQISTSISLSKPETPNPHMPQTPLPPRPDRPRPPLPESLSTFPNTISSSTGP
+                     SSTTTTSVLGEPLPMPFTPTLPPGRFWHQYDLLPGPQRTRQVLGPSRPGVPTMSLLNS
+                     SRPTPEGSPPNLPILLPSSILPEAISLLLLPEELELLSESMVESKFVESLNPPAFYTF
+                     LTPDEDGSPNWDGNSEEILGGAGGSMESQGSSVGLAKGTLPSIFTFSSSVDGDPHFVI
+                     QIPHSEEKICFTLNGHPGDLLQLIEDPKAGLHVSGKLLGAPPRPGHKDQTRTYFQIIT
+                     VTTDKPRAYTITISRSSISLRGEGTLRLSWDQPALLKRPQLELYVAAAARLTLRLGPY
+                     LEFLVLRHRYRHPSTLQLPHLGFYVANGSGLSPSARGLIGQFQHADIRLVTGPMGPCL
+                     RRHHGPDVPVILGKRLLKDSPRLLPRWASCWLVKRSHVELLLGHPYLSYVL"
+     sig_peptide     46..114
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     mat_peptide     115..3984
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /product="Inter-alpha-trypsin inhibitor heavy chain H6.
+                     /id=PRO_0000285680"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6UXX5.1)"
+     misc_feature    292..294
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q6UXX5.1); glycosylation site"
+     misc_feature    1165..1167
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q6UXX5.1); glycosylation site"
+     misc_feature    1663..1665
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q6UXX5.1); glycosylation site"
+     misc_feature    1825..1827
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q6UXX5.1); glycosylation site"
+     misc_feature    1879..1977
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6UXX5.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    2392..2496
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6UXX5.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    2611..2829
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6UXX5.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    2920..2994
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6UXX5.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    2956..2958
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q6UXX5.1); glycosylation site"
+     misc_feature    3736..3738
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q6UXX5.1); glycosylation site"
+     exon            148..302
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /inference="alignment:Splign:2.1.0"
+     exon            303..413
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /inference="alignment:Splign:2.1.0"
+     exon            414..661
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /inference="alignment:Splign:2.1.0"
+     exon            662..831
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /inference="alignment:Splign:2.1.0"
+     exon            832..948
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /inference="alignment:Splign:2.1.0"
+     exon            949..1120
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1121..3154
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3155..3247
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3248..3283
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3284..3397
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3398..3775
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3776..4964
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      4686..4691
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /note="hexamer: AGTAAA"
+     polyA_site      4706
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /note="major polyA site"
+     regulatory      4943..4948
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /note="hexamer: CATAAA"
+     polyA_site      4964
+                     /gene="ITIH6"
+                     /gene_synonym="dJ14O9.1; ITIH5L; UNQ6369"
+                     /note="major polyA site"
+ORIGIN      
+        1 agatcttctg gatgtgaaca acagatccag gccagaggtg gcatcatgtc tgggtggagg
+       61 tacctcatct gtgtcagctt tttgctgacc attcttcttg aactgacata ccagggaccc
+      121 cctgtccccg cttcatcaag cacaaagttg ttaatgacaa gctattctat gcgctccacg
+      181 gtggtgtctc gctatgccca caccttggtc acctctgtcc tgtttaatcc acatgctgaa
+      241 gcccatgaag ccatctttga cctggatctg cctcatcttg cctttatctc caatttcact
+      301 atgaccatca acaataaagt ctacattgca gaagtcaaag agaagcacca ggcaaagaaa
+      361 atctatgaag aagcccatca gcagggaaag acagctgctc atgtaggcat cagggaccgg
+      421 gaatcagaga agttccgcat ctccaccagc ctggcagcag gcacagaggt gactttttcc
+      481 ctggcctatg aggaactgct tcagcggcac cagggccagt accagctggt ggtgagcctg
+      541 aggcctggcc aattggtgaa gaggctgagc atagaggtta cagtgtcaga aaggacaggc
+      601 atctcctatg tgcacatacc acccctgagg accggccgtc tgcgcaccaa tgcccatgca
+      661 agtgaggtgg attcaccccc atccaccagg atcgagaggg gagagacctg tgtccgaatc
+      721 acctactgcc cgacattgca agaccagtcg tccatctctg ggtcaggcat catggctgac
+      781 ttcctggttc agtacgatgt ggtcatggag gacatcattg gagacgtgca gatttacgat
+      841 gactatttca ttcactactt tgcccccaga ggccttccac ctatggagaa gaatgtggtt
+      901 tttgttattg acgtaagcag ctccatgttt ggtaccaaga tggaacagac taaaacggcc
+      961 atgaatgtga tcctcagtga ccttcaagcc aatgactact tcaacatcat ctccttttct
+     1021 gacacagtta atgtttggaa agctggaggc tcaatccagg ccaccatcca gaatgtccac
+     1081 agtgccaagg actacctgca ttgcatggaa gccgatggct ggacagacgt caactcagct
+     1141 ctgctggcag ctgcttcagt gctgaaccat agcaaccagg agcctgggag gggccccagt
+     1201 gtggggagga tccctcttat catcttcctg acggatgggg agcccacggc cggcgtgacg
+     1261 acccccagtg tgatcctctc caatgtccgt caggcgctag gccacagggt atcccttttc
+     1321 agcttggcct ttggggatga tgctgacttt acactgctgc gccgcctgtc cctggaaaac
+     1381 cggggaatag cccggcgcat atatgaggac actgatgcgg ccctacagct gaagggcctc
+     1441 tatgaggaga tctccatgcc tctgctggca gatgtgcgtc tgaactacct gggtggcttg
+     1501 gttggggcct ccccttgggc cgttttcccc aactactttg gtggctctga gctggtggtg
+     1561 gcaggacagg tgcagccagg caaacaggaa ctgggcatcc acctggcagc ccgtggcccc
+     1621 aaggatcagc ttcttgtggc ccaccacagt gaaggggcca ccaacaacag ccagaaggcc
+     1681 tttggttgcc caggggagcc agcccccaat gtggcccact tcatccgccg cctctgggcc
+     1741 tatgtcacca ttggagaact gctggatgca cacttccaag ctcgtgacac caccactcgc
+     1801 cacctgctgg ctgccaaagt cctcaacctg tcccttgaat acaactttgt cacacctctg
+     1861 acttcactgg tcatggtgca acccaaacag gccagtgagg agaccaggag acagacttcc
+     1921 acctctgctg ggccagacac catcatgccc tcatccagca gcaggcatgg cctaggggta
+     1981 agcacagctc agccagcctt ggtgcccaag gtcatctccc ccaaatcaag gcctgtgaaa
+     2041 ccaaagttct acttatcctc aactactact gcctctacca agaagatgct aagttccaaa
+     2101 gagctggagc cattgggaga gagccctcat accctgtcaa tgcccacata cccaaaggcc
+     2161 aaaattccag cacaacagga ttctggcacc ttggcccagc caactctcag gacaaaacct
+     2221 accattcttg tgccctcaaa ttctggtact ctgttgcctc tgaagcccgg ctctctatca
+     2281 caccagaatc ctgatatatt acccacgaac tccaggacac aagtcccacc tgtgaaacct
+     2341 ggcatcccag cctcgcccaa agctgacact gtgaaatgtg ttactccact gcattccaaa
+     2401 cctggtgctc catcgcaccc ccaacttggg gcactcacat cacaggcacc taaaggcctg
+     2461 ccacagtcaa gacctggagt ctctacactt caggttccca agtacccact acacaccaga
+     2521 cctagggttc ctgctcccaa gacccgaaac aacatgccac acctggggcc tggaatcctc
+     2581 ttgtccaaga cccctaaaat cttattatct cttaaaccga gtgccccacc acaccaaatt
+     2641 tccacaagca tatcactttc caagcctgag accccaaacc cccatatgcc tcaaacccca
+     2701 ctacctccta gacctgacag accaaggccc ccacttcctg agagcctaag cacattccca
+     2761 aatacaatct caagttccac aggtcccagc agtaccacaa ccacctctgt ccttggagaa
+     2821 cccctcccca tgccctttac tcccactctg ccccctggaa ggttctggca tcagtatgac
+     2881 ctcctcccgg gtccccagag gaccaggcaa gttctgggac catctaggcc aggagttcca
+     2941 acaatgagcc tactcaacag ctccaggcct acaccagaag gcagccctcc aaacctgcca
+     3001 atcttgctgc cttctagcat cctccctgag gccatcagtc tgctccttct ccctgaggag
+     3061 ctagagctgc tgtctgaatc aatggtggaa tccaagttcg tggagtcctt gaacccacca
+     3121 gctttctata ccttcctcac tcctgatgaa gatggaagtc caaactggga tggcaattct
+     3181 gaggagatcc tgggaggagc tggaggcagc atggaatctc aaggaagttc tgtggggtta
+     3241 gcaaaaggca cattgcctag catcttcacc ttctcctcct cagtggacgg ggacccccac
+     3301 tttgtgatcc aaatcccaca ctcagaagag aagatctgct tcacactgaa tgggcaccct
+     3361 ggggacttgc tgcagctcat agaggaccca aaggcagggc tgcatgtgag tgggaagctg
+     3421 cttggcgcac caccaaggcc gggccacaag gaccagactc gcacctactt ccagatcatc
+     3481 acagtcacta cagacaaacc ccgggcctat actatcacca tcagccgcag ttctatatct
+     3541 ttgcgaggcg agggtacctt gcgcctgtcc tgggaccaac ctgccctgct gaagaggccc
+     3601 cagctggagc tctatgtggc tgctgcagcc cgccttaccc tccgccttgg gccctacctt
+     3661 gagttcctag tcctccgaca ccgctacagg catcccagta ccctgcaact accccacctg
+     3721 gggttctacg tggccaatgg ctcaggcctc agcccctcag cccgtggcct gatagggcag
+     3781 ttccagcacg cagacatccg actggtgaca ggacctatgg ggccatgctt acgaaggcac
+     3841 catggcccag atgtgcctgt gattctaggc aagaggctgc tgaaggactc accaaggctg
+     3901 ctgccccgct gggcttcctg ctggctggtg aagcgctctc atgtagagct gcttctgggc
+     3961 cacccctacc tctcctatgt cctgtgatgg cttctgaatt ccagagccag gagacctgaa
+     4021 tttgggagat ccagaaacca gggcatgggg tgagccaggg acagagaccc aaggacatgg
+     4081 aagcacacac agggacacac agactcacgc atgttctaag gaacacatat acaagggtat
+     4141 acaaacacat agacatgcag agacatagag tcagggactc ctgcatcttc atggtccttc
+     4201 acatctccag tctcaccctc tccaaatcca tgctcctcac cagccctaca agccactttt
+     4261 gtaaaacgaa aaaatgatca gtagttctgc tcacagcttt ccctaactcc tatggcatat
+     4321 tcaaggctct cagagtttcc ctaacaaacc atgctcactc ctaccactgg accattgcat
+     4381 gtgcttttcc ttctgcatga aacactcttc ctttgttcct gtaggtgagt ataattcatc
+     4441 cttcaaatcc tagttgttac ctcttctagg aggcctttcc tgatgcctgc cctagattga
+     4501 gtttggtcct gtcctctggg ttcctatagc ccacccccaa ccctccacgc tcacagtatt
+     4561 tatactgtgt agtaatcatc tgtttacttg tctggatccc tgacttagac tgtgagatct
+     4621 ttgagggcaa ggaccttttc tgaatcatct atgtatcccc agtgcctctc acataatagg
+     4681 tgcttagtaa atatttgtta aaagaatgaa ttaattaatt aacaaaaaag gatcccataa
+     4741 catagcaata gacacacata tatacatact cacaaccaaa gacacaggat cacacccgga
+     4801 aaaacagtga caagggcaca gatatggatg gatagaggga cagacattta tggaaacaca
+     4861 ggaatcacaa aacaaacatg gacatagggg tatagagaca taaaaagatg gggacaggga
+     4921 gccagagtgg cagaatcagg gacataaact cagagaaaaa ggaa
+//
+

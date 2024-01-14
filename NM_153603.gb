@@ -1,0 +1,316 @@
+LOCUS       NM_153603               2935 bp    mRNA    linear   PRI 13-NOV-2023
+DEFINITION  Homo sapiens component of oligomeric golgi complex 7 (COG7), mRNA.
+ACCESSION   NM_153603
+VERSION     NM_153603.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2935)
+  AUTHORS   Luck K, Kim DK, Lambourne L, Spirohn K, Begg BE, Bian W, Brignall
+            R, Cafarelli T, Campos-Laborie FJ, Charloteaux B, Choi D, Cote AG,
+            Daley M, Deimling S, Desbuleux A, Dricot A, Gebbia M, Hardy MF,
+            Kishore N, Knapp JJ, Kovacs IA, Lemmens I, Mee MW, Mellor JC,
+            Pollis C, Pons C, Richardson AD, Schlabach S, Teeking B, Yadav A,
+            Babor M, Balcha D, Basha O, Bowman-Colin C, Chin SF, Choi SG,
+            Colabella C, Coppin G, D'Amata C, De Ridder D, De Rouck S,
+            Duran-Frigola M, Ennajdaoui H, Goebels F, Goehring L, Gopal A,
+            Haddad G, Hatchi E, Helmy M, Jacob Y, Kassa Y, Landini S, Li R, van
+            Lieshout N, MacWilliams A, Markey D, Paulson JN, Rangarajan S,
+            Rasla J, Rayhan A, Rolland T, San-Miguel A, Shen Y, Sheykhkarimli
+            D, Sheynkman GM, Simonovsky E, Tasan M, Tejeda A, Tropepe V,
+            Twizere JC, Wang Y, Weatheritt RJ, Weile J, Xia Y, Yang X,
+            Yeger-Lotem E, Zhong Q, Aloy P, Bader GD, De Las Rivas J, Gaudet S,
+            Hao T, Rak J, Tavernier J, Hill DE, Vidal M, Roth FP and Calderwood
+            MA.
+  TITLE     A reference map of the human binary protein interactome
+  JOURNAL   Nature 580 (7803), 402-408 (2020)
+   PUBMED   32296183
+REFERENCE   2  (bases 1 to 2935)
+  AUTHORS   Fragoza R, Das J, Wierbowski SD, Liang J, Tran TN, Liang S, Beltran
+            JF, Rivera-Erick CA, Ye K, Wang TY, Yao L, Mort M, Stenson PD,
+            Cooper DN, Wei X, Keinan A, Schimenti JC, Clark AG and Yu H.
+  TITLE     Extensive disruption of protein interactions by genetic variants
+            across the allele frequency spectrum in human populations
+  JOURNAL   Nat Commun 10 (1), 4141 (2019)
+   PUBMED   31515488
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 2935)
+  AUTHORS   Climer LK, Pokrovskaya ID, Blackburn JB and Lupashin VV.
+  TITLE     Membrane detachment is not essential for COG complex function
+  JOURNAL   Mol Biol Cell 29 (8), 964-974 (2018)
+   PUBMED   29467253
+  REMARK    GeneRIF: TMEM-COG4, COG7 and COG8 subunits restore endogenous COG
+            localization to the Golgi membranes
+REFERENCE   4  (bases 1 to 2935)
+  AUTHORS   Bailey Blackburn J, Pokrovskaya I, Fisher P, Ungar D and Lupashin
+            VV.
+  TITLE     COG Complex Complexities: Detailed Characterization of a Complete
+            Set of HEK293T Cells Lacking Individual COG Subunits
+  JOURNAL   Front Cell Dev Biol 4, 23 (2016)
+   PUBMED   27066481
+  REMARK    Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 2935)
+  AUTHORS   Yang X, Coulombe-Huntington J, Kang S, Sheynkman GM, Hao T,
+            Richardson A, Sun S, Yang F, Shen YA, Murray RR, Spirohn K, Begg
+            BE, Duran-Frigola M, MacWilliams A, Pevzner SJ, Zhong Q, Wanamaker
+            SA, Tam S, Ghamsari L, Sahni N, Yi S, Rodriguez MD, Balcha D, Tan
+            G, Costanzo M, Andrews B, Boone C, Zhou XJ, Salehi-Ashtiani K,
+            Charloteaux B, Chen AA, Calderwood MA, Aloy P, Roth FP, Hill DE,
+            Iakoucheva LM, Xia Y and Vidal M.
+  TITLE     Widespread Expansion of Protein Interaction Capabilities by
+            Alternative Splicing
+  JOURNAL   Cell 164 (4), 805-817 (2016)
+   PUBMED   26871637
+REFERENCE   6  (bases 1 to 2935)
+  AUTHORS   Loh E and Hong W.
+  TITLE     The binary interacting network of the conserved oligomeric Golgi
+            tethering complex
+  JOURNAL   J Biol Chem 279 (23), 24640-24648 (2004)
+   PUBMED   15047703
+REFERENCE   7  (bases 1 to 2935)
+  AUTHORS   Clark HF, Gurney AL, Abaya E, Baker K, Baldwin D, Brush J, Chen J,
+            Chow B, Chui C, Crowley C, Currell B, Deuel B, Dowd P, Eaton D,
+            Foster J, Grimaldi C, Gu Q, Hass PE, Heldens S, Huang A, Kim HS,
+            Klimowski L, Jin Y, Johnson S, Lee J, Lewis L, Liao D, Mark M,
+            Robbie E, Sanchez C, Schoenfeld J, Seshagiri S, Simmons L, Singh J,
+            Smith V, Stinson J, Vagts A, Vandlen R, Watanabe C, Wieand D, Woods
+            K, Xie MH, Yansura D, Yi S, Yu G, Yuan J, Zhang M, Zhang Z, Goddard
+            A, Wood WI, Godowski P and Gray A.
+  TITLE     The secreted protein discovery initiative (SPDI), a large-scale
+            effort to identify novel human secreted and transmembrane proteins:
+            a bioinformatics assessment
+  JOURNAL   Genome Res 13 (10), 2265-2270 (2003)
+   PUBMED   12975309
+  REMARK    Erratum:[Genome Res. 2003 Dec;13(12):2759]
+REFERENCE   8  (bases 1 to 2935)
+  AUTHORS   Loh E and Hong W.
+  TITLE     Sec34 is implicated in traffic from the endoplasmic reticulum to
+            the Golgi and exists in a complex with GTC-90 and ldlBp
+  JOURNAL   J Biol Chem 277 (24), 21955-21961 (2002)
+   PUBMED   11929878
+REFERENCE   9  (bases 1 to 2935)
+  AUTHORS   Ungar D, Oka T, Brittle EE, Vasile E, Lupashin VV, Chatterton JE,
+            Heuser JE, Krieger M and Waters MG.
+  TITLE     Characterization of a mammalian Golgi-localized protein complex,
+            COG, that is required for normal Golgi morphology and function
+  JOURNAL   J Cell Biol 157 (3), 405-415 (2002)
+   PUBMED   11980916
+REFERENCE   10 (bases 1 to 2935)
+  AUTHORS   Sparks,S.E. and Krasnewich,D.M.
+  TITLE     Congenital Disorders of N-Linked Glycosylation and Multiple Pathway
+            Overview
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301507
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DB444997.1, BC037563.1 and
+            R54036.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Nov 24, 2018 this sequence version replaced NM_153603.3.
+            
+            Summary: The protein encoded by this gene resides in the golgi, and
+            constitutes one of the 8 subunits of the conserved oligomeric Golgi
+            (COG) complex, which is required for normal golgi morphology and
+            localization. Mutations in this gene are associated with the
+            congenital disorder of glycosylation type IIe.[provided by RefSeq,
+            May 2010].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC037563.1, SRR1803615.220993.1
+                                           [ECO:0000332]
+            RNAseq introns              :: mixed sample support SAMEA1965299,
+                                           SAMEA1966682 [ECO:0006172]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000307149.10/ ENSP00000305442.5
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-86                DB444997.1         11-96
+            87-2801             BC037563.1         78-2792
+            2802-2935           R54036.1           7-140               c
+FEATURES             Location/Qualifiers
+     source          1..2935
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="16"
+                     /map="16p12.2"
+     gene            1..2935
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /note="component of oligomeric golgi complex 7"
+                     /db_xref="GeneID:91949"
+                     /db_xref="HGNC:HGNC:18622"
+                     /db_xref="MIM:606978"
+     exon            1..364
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    181..183
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /note="upstream in-frame stop codon"
+     CDS             196..2508
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /note="COG complex subunit 7"
+                     /codon_start=1
+                     /product="conserved oligomeric Golgi complex subunit 7"
+                     /protein_id="NP_705831.1"
+                     /db_xref="CCDS:CCDS10610.1"
+                     /db_xref="GeneID:91949"
+                     /db_xref="HGNC:HGNC:18622"
+                     /db_xref="MIM:606978"
+                     /translation="MDFSKFLADDFDVKEWINAAFRAGSKEAASGKADGHAATLVMKL
+                     QLFIQEVNHAVEETSHQALQNMPKVLRDVEALKQEASFLKEQMILVKEDIKKFEQDTS
+                     QSMQVLVEIDQVKSRMQLAAESLQEADKWSTLSADIEETFKTQDIAVISAKLTGMQNS
+                     LMMLVDTPDYSEKCVHLEALKNRLEALASPQIVAAFTSQAVDQSKVFVKVFTEIDRMP
+                     QLLAYYYKCHKVQLLAAWQELCQSDLSLDRQLTGLYDALLGAWHTQIQWATQVFQKPH
+                     EVVMVLLIQTLGALMPSLPSCLSNGVERAGPEQELTRLLEFYDATAHFAKGLEMALLP
+                     HLHEHNLVKVTELVDAVYDPYKPYQLKYGDMEESNLLIQMSAVPLEHGEVIDCVQELS
+                     HSVNKLFGLASAAVDRCVRFTNGLGTCGLLSALKSLFAKYVSDFTSTLQSIRKKCKLD
+                     HIPPNSLFQEDWTAFQNSIRIIATCGELLRHCGDFEQQLANRILSTAGKYLSDSCSPR
+                     SLAGFQESILTDKKNSAKNPWQEYNYLQKDNPAEYASLMEILYTLKEKGSSNHNLLAA
+                     PRAALTRLNQQAHQLAFDSVFLRIKQQLLLISKMDSWNTAGIGETLTDELPAFSLTPL
+                     EYISNIGQYIMSLPLNLEPFVTQEDSALELALHAGKLPFPPEQGDELPELDNMADNWL
+                     GSIARATMQTYCDAILQIPELSPHSAKQLATDIDYLINVMDALGLQPSRTLQHIVTLL
+                     KTRPEDYRQVSKGLPRRLATTVATMRSVNY"
+     exon            365..513
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /inference="alignment:Splign:2.1.0"
+     exon            514..630
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /inference="alignment:Splign:2.1.0"
+     exon            631..799
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /inference="alignment:Splign:2.1.0"
+     exon            800..882
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /inference="alignment:Splign:2.1.0"
+     exon            883..1005
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1006..1204
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1205..1332
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1333..1487
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1488..1604
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1605..1670
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1671..1857
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1858..1998
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1999..2082
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2083..2197
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2198..2341
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2342..2935
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2911..2916
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /note="hexamer: AATAAA"
+     polyA_site      2935
+                     /gene="COG7"
+                     /gene_synonym="CDG2E"
+                     /note="major polyA site"
+ORIGIN      
+        1 gagggtcatt cccagccgca aactgagtgc gctgagcggg gaagcgcaaa ggggcaagtt
+       61 acccgtcctg gcgtttctgg ggttcgcctc ggaggctagc ctcggtgctc tcgcaggctc
+      121 gctcgcttct gcatccccgt tgccgcccgg agccaactct taagttctgg acgccaggcc
+      181 tgaggcagtt ccgccatgga cttctccaag ttcctggcag acgacttcga cgtgaaggag
+      241 tggatcaatg cggccttcag ggccggctcc aaggaggcgg cgtccgggaa ggcggatggc
+      301 cacgcagcca ccctggtgat gaagctgcag ctgttcatcc aagaggtgaa ccacgccgtg
+      361 gaggaaacaa gtcaccaagc tctccagaac atgcccaaag tgctccgtga tgttgaagcc
+      421 ctaaaacagg aggcatcttt cctgaaagaa cagatgattc ttgtcaagga ggacattaaa
+      481 aaatttgaac aggacacatc tcaatccatg caggtgttgg tagaaattga ccaagtgaag
+      541 tccagaatgc aacttgctgc cgaatctctt caggaagcag ataagtggag cacgttgagc
+      601 gccgatattg aggagacatt taagactcag gacatagctg tgatttctgc caagctaaca
+      661 ggtatgcaga acagcttaat gatgcttgtt gatacaccag actactcaga aaagtgtgtg
+      721 cacttggagg cactgaagaa caggctggag gccctagcca gtccacagat tgtagcggca
+      781 ttcacctctc aggctgtaga tcagtccaaa gtgtttgtga aggtgtttac tgaaattgac
+      841 cggatgcccc agctcctggc ctactactac aagtgtcaca aggtgcagct tttagcagcc
+      901 tggcaagagc tgtgtcaaag tgacctatcc ctggaccggc agcttaccgg actctatgat
+      961 gccttgcttg gtgcttggca cacacaaatc cagtgggcta cacaggtttt ccagaagccc
+     1021 cacgaggtgg taatggtgct gctgattcag accctggggg ccctcatgcc ctcgctgccc
+     1081 tcctgcctca gcaacggcgt ggagagggca gggcccgagc aggagctcac caggctgctg
+     1141 gagttctacg acgccaccgc ccacttcgcc aagggcttgg agatggcact gctcccccac
+     1201 ctacatgaac acaatctggt aaaagtcacg gagctggtgg atgctgtgta tgatccatac
+     1261 aaaccctacc agctgaagta tggcgacatg gaagagagca acctcctcat ccagatgagt
+     1321 gctgtgcctc tggagcatgg ggaagtgatt gactgtgtgc aggagctgag ccactccgtg
+     1381 aacaagctgt ttggtctggc gtctgcagcc gttgacagat gcgtcagatt caccaatggc
+     1441 ctggggacct gcggcctgtt gtcagccctg aaatccctct ttgccaagta tgtgtctgat
+     1501 ttcaccagca ctctccagtc catacgaaag aagtgcaaac tggaccacat tcctcccaac
+     1561 tccctcttcc aggaagattg gacggctttt cagaactcca ttaggataat agccacctgt
+     1621 ggagagcttt tgcggcattg tggggacttc gagcagcagc tagccaacag gattttgtcc
+     1681 acagctggga agtatctatc tgattcctgc agcccccgga gcctggctgg ttttcaggag
+     1741 agcatcttga cagacaagaa gaactctgcc aagaacccat ggcaagaata taattacctc
+     1801 cagaaagata accctgctga atatgccagt ttaatggaaa tactttatac ccttaaggaa
+     1861 aaagggtcaa gcaaccacaa cctgctggct gcacctcgag cagcgctgac tcggcttaac
+     1921 cagcaggccc accagctggc tttcgattcc gtgttcctgc gcatcaaaca acagctgttg
+     1981 cttatttcga agatggacag ctggaatacg gctggcatcg gagaaaccct cacagatgaa
+     2041 ctgcccgcct ttagtctcac ccctctcgag tacatcagca acatcgggca gtacatcatg
+     2101 tccctccccc tgaatcttga gccatttgtg actcaggagg actctgcctt agagttggca
+     2161 ttgcacgctg gaaagctgcc atttcctcct gagcaggggg atgaattgcc cgagctggac
+     2221 aacatggctg acaactggct gggctcgatc gccagagcca caatgcagac ctactgtgat
+     2281 gcgatcctac agatccctga gctgagccca cactctgcca agcagctggc cactgacatc
+     2341 gactatctga tcaacgtgat ggatgccctg ggcctgcagc cgtcccgcac cctccagcac
+     2401 atcgtgacgc tactgaagac caggcctgag gactatagac aggtcagcaa aggcctgccc
+     2461 cgtcgcctgg ccaccaccgt ggccaccatg cggagtgtga attactgacc ccaccacaca
+     2521 ccggaccacc aagagagcca gggctgctgt ttcgcgactc accagcacag atttgctcag
+     2581 aaactctgcc caagattggg cagaagttac tttaaaaaga cttggttcag ctggtcacgg
+     2641 tggctcacgc ctgtaatccc agcactttgg gaggccaagc cagatggatc atgaagccag
+     2701 gagttcgaga ccagcctgac caacatggtg aaaccccatc tctactaaaa atacaaaaat
+     2761 taacagcaga gcgagactct gtctcaaaaa aaaaaaaaaa aaagacttgg ttcatttgta
+     2821 taatcaaaaa gagttgtaaa ttaaagatgt attatttatc agagaagact ttttagataa
+     2881 tttttttaaa ggatcagatc ttgaaaatgg aataaataac tactgtgaaa tgcaa
+//
+

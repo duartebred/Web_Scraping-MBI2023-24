@@ -1,0 +1,299 @@
+LOCUS       NM_001159694            3927 bp    mRNA    linear   PRI 18-DEC-2022
+DEFINITION  Homo sapiens endomucin (EMCN), transcript variant 2, mRNA.
+ACCESSION   NM_001159694
+VERSION     NM_001159694.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3927)
+  AUTHORS   Wang S, Jin J, Chen J and Lou W.
+  TITLE     MUC14-Related ncRNA-mRNA Network in Breast Cancer
+  JOURNAL   Genes (Basel) 12 (11), 1677 (2021)
+   PUBMED   34828282
+  REMARK    GeneRIF: MUC14-Related ncRNA-mRNA Network in Breast Cancer.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 3927)
+  AUTHORS   Hu Z, Cano I, Saez-Torres KL, LeBlanc ME, Saint-Geniez M, Ng YS,
+            Argueso P and D'Amore PA.
+  TITLE     Elements of the Endomucin Extracellular Domain Essential for
+            VEGF-Induced VEGFR2 Activity
+  JOURNAL   Cells 9 (6), 1413 (2020)
+   PUBMED   32517158
+  REMARK    GeneRIF: Elements of the Endomucin Extracellular Domain Essential
+            for VEGF-Induced VEGFR2 Activity.
+            Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 3927)
+  AUTHORS   Yang J, LeBlanc ME, Cano I, Saez-Torres KL, Saint-Geniez M, Ng YS
+            and D'Amore PA.
+  TITLE     ADAM10 and ADAM17 proteases mediate proinflammatory
+            cytokine-induced and constitutive cleavage of endomucin from the
+            endothelial surface
+  JOURNAL   J Biol Chem 295 (19), 6641-6651 (2020)
+   PUBMED   32193206
+  REMARK    GeneRIF: ADAM10 and ADAM17 proteases mediate proinflammatory
+            cytokine-induced and constitutive cleavage of endomucin from the
+            endothelial surface.
+REFERENCE   4  (bases 1 to 3927)
+  AUTHORS   Reckzeh K, Kizilkaya H, Helbo AS, Alrich ME, Deslauriers AG, Grover
+            A, Rapin N, Asmar F, Gronbaek K, Porse B, Borregaard N, Vestweber
+            D, Nerlov C and Theilgaard-Monch K.
+  TITLE     Human adult HSCs can be discriminated from lineage-committed HPCs
+            by the expression of endomucin
+  JOURNAL   Blood Adv 2 (13), 1628-1632 (2018)
+   PUBMED   29986855
+  REMARK    GeneRIF: Human adult HSCs can be discriminated from
+            lineage-committed HPCs by the expression of endomucin.
+REFERENCE   5  (bases 1 to 3927)
+  AUTHORS   Iftakhar-E-Khuda I, Fair-Makela R, Kukkonen-Macchi A, Elima K,
+            Karikoski M, Rantakari P, Miyasaka M, Salmi M and Jalkanen S.
+  TITLE     Gene-expression profiling of different arms of lymphatic
+            vasculature identifies candidates for manipulation of cell traffic
+  JOURNAL   Proc Natl Acad Sci U S A 113 (38), 10643-10648 (2016)
+   PUBMED   27601677
+  REMARK    GeneRIF: In contrast, endomucin (EMCN) is present on the lymphatic
+            sinus endothelium and not on lymphatic endothelium of the
+            subcapsular sinus. Moreover, both murine and human MSR1 on
+            lymphatic endothelium of the SS bind lymphocytes and in in vivo
+            studies MSR1 regulates entrance of lymphocytes from the SS to the
+            lymph node parenchyma
+REFERENCE   6  (bases 1 to 3927)
+  AUTHORS   Kanda H, Tanaka T, Matsumoto M, Umemoto E, Ebisuno Y, Kinoshita M,
+            Noda M, Kannagi R, Hirata T, Murai T, Fukuda M and Miyasaka M.
+  TITLE     Endomucin, a sialomucin expressed in high endothelial venules,
+            supports L-selectin-mediated rolling
+  JOURNAL   Int Immunol 16 (9), 1265-1274 (2004)
+   PUBMED   15249540
+REFERENCE   7  (bases 1 to 3927)
+  AUTHORS   Kuhn A, Brachtendorf G, Kurth F, Sonntag M, Samulowitz U, Metze D
+            and Vestweber D.
+  TITLE     Expression of endomucin, a novel endothelial sialomucin, in normal
+            and diseased human skin
+  JOURNAL   J Invest Dermatol 119 (6), 1388-1393 (2002)
+   PUBMED   12485444
+REFERENCE   8  (bases 1 to 3927)
+  AUTHORS   Samulowitz U, Kuhn A, Brachtendorf G, Nawroth R, Braun A, Bankfalvi
+            A, Bocker W and Vestweber D.
+  TITLE     Human endomucin: distribution pattern, expression on high
+            endothelial venules, and decoration with the MECA-79 epitope
+  JOURNAL   Am J Pathol 160 (5), 1669-1681 (2002)
+   PUBMED   12000719
+REFERENCE   9  (bases 1 to 3927)
+  AUTHORS   Liu C, Shao ZM, Zhang L, Beatty P, Sartippour M, Lane T, Livingston
+            E and Nguyen M.
+  TITLE     Human endomucin is an endothelial marker
+  JOURNAL   Biochem Biophys Res Commun 288 (1), 129-136 (2001)
+   PUBMED   11594763
+REFERENCE   10 (bases 1 to 3927)
+  AUTHORS   Kinoshita M, Nakamura T, Ihara M, Haraguchi T, Hiraoka Y, Tashiro K
+            and Noda M.
+  TITLE     Identification of human endomucin-1 and -2 as membrane-bound
+            O-sialoglycoproteins with anti-adhesive activity
+  JOURNAL   FEBS Lett 499 (1-2), 121-126 (2001)
+   PUBMED   11418125
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            BG506923.1, AK304568.1, AK291831.1, AC097459.3 and AL133118.1.
+            
+            On May 31, 2019 this sequence version replaced NM_001159694.1.
+            
+            Summary: EMCN is a mucin-like sialoglycoprotein that interferes
+            with the assembly of focal adhesion complexes and inhibits
+            interaction between cells and the extracellular matrix (Kinoshita
+            et al., 2001 [PubMed 11418125]).[supplied by OMIM, Mar 2008].
+            
+            Transcript Variant: This variant (2) lacks an in-frame exon in the
+            middle portion of the coding region compared to variant 1. This
+            results in a shorter protein (isoform 2) compared to isoform 1.
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AK304568.1, DRR138524.1354.1
+                                           [ECO:0000332]
+            RNAseq introns              :: mixed sample support SAMEA1965299,
+                                           SAMEA1966682 [ECO:0006172]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-21                BG506923.1         73-93
+            22-1259             AK304568.1         3-1240
+            1260-1379           AK291831.1         1031-1150
+            1380-3172           AC097459.3         25700-27492         c
+            3173-3927           AL133118.1         1482-2236
+FEATURES             Location/Qualifiers
+     source          1..3927
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="4"
+                     /map="4q24"
+     gene            1..3927
+                     /gene="EMCN"
+                     /gene_synonym="EMCN2; MUC14"
+                     /note="endomucin"
+                     /db_xref="GeneID:51705"
+                     /db_xref="HGNC:HGNC:16041"
+                     /db_xref="MIM:608350"
+     exon            1..172
+                     /gene="EMCN"
+                     /gene_synonym="EMCN2; MUC14"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             109..855
+                     /gene="EMCN"
+                     /gene_synonym="EMCN2; MUC14"
+                     /note="isoform 2 precursor is encoded by transcript
+                     variant 2; endomucin-2; MUC-14; mucin-14; gastric cancer
+                     antigen Ga34"
+                     /codon_start=1
+                     /product="endomucin isoform 2 precursor"
+                     /protein_id="NP_001153166.1"
+                     /db_xref="CCDS:CCDS54782.1"
+                     /db_xref="GeneID:51705"
+                     /db_xref="HGNC:HGNC:16041"
+                     /db_xref="MIM:608350"
+                     /translation="MELLQVTILFLLPSICSSNSTGVLEAANNSLVVTTTKPSITTPN
+                     TESLQKNVVTPTTGTTPKGTITNELLKMSLMSTATFLTSKDEGLKATTTDVRKNDSII
+                     SNVTVTSVTLPNAVSTLQSSKPKSSVLQPDASPSKTGTLTSIPVTIPENTSQSQVIGT
+                     EGGKNASTSATSRSYSSIILPVVIALIVITLSVFVLVGLYRMCWKADPGTPENGNDQP
+                     QSDKESVKLLTVKTISHESGEHSAQGKTKN"
+     sig_peptide     109..162
+                     /gene="EMCN"
+                     /gene_synonym="EMCN2; MUC14"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     exon            173..295
+                     /gene="EMCN"
+                     /gene_synonym="EMCN2; MUC14"
+                     /inference="alignment:Splign:2.1.0"
+     exon            296..367
+                     /gene="EMCN"
+                     /gene_synonym="EMCN2; MUC14"
+                     /inference="alignment:Splign:2.1.0"
+     exon            368..484
+                     /gene="EMCN"
+                     /gene_synonym="EMCN2; MUC14"
+                     /inference="alignment:Splign:2.1.0"
+     exon            485..577
+                     /gene="EMCN"
+                     /gene_synonym="EMCN2; MUC14"
+                     /inference="alignment:Splign:2.1.0"
+     exon            578..637
+                     /gene="EMCN"
+                     /gene_synonym="EMCN2; MUC14"
+                     /inference="alignment:Splign:2.1.0"
+     exon            638..733
+                     /gene="EMCN"
+                     /gene_synonym="EMCN2; MUC14"
+                     /inference="alignment:Splign:2.1.0"
+     exon            734..758
+                     /gene="EMCN"
+                     /gene_synonym="EMCN2; MUC14"
+                     /inference="alignment:Splign:2.1.0"
+     exon            759..820
+                     /gene="EMCN"
+                     /gene_synonym="EMCN2; MUC14"
+                     /inference="alignment:Splign:2.1.0"
+     exon            821..894
+                     /gene="EMCN"
+                     /gene_synonym="EMCN2; MUC14"
+                     /inference="alignment:Splign:2.1.0"
+     exon            895..3927
+                     /gene="EMCN"
+                     /gene_synonym="EMCN2; MUC14"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3787..3792
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="EMCN"
+                     /gene_synonym="EMCN2; MUC14"
+                     /note="hexamer: ATTAAA"
+     polyA_site      3812
+                     /gene="EMCN"
+                     /gene_synonym="EMCN2; MUC14"
+                     /note="major polyA site"
+     regulatory      3892..3897
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="EMCN"
+                     /gene_synonym="EMCN2; MUC14"
+                     /note="hexamer: AATAAA"
+     polyA_site      3927
+                     /gene="EMCN"
+                     /gene_synonym="EMCN2; MUC14"
+                     /note="major polyA site"
+ORIGIN      
+        1 acattcacta caccttttcc atttgctaat aaggccctgc caggctggga gggaattgtc
+       61 cctgcctgct tctggagaaa gaagatattg acaccatcta cgggcaccat ggaactgctt
+      121 caagtgacca ttctttttct tctgcccagt atttgcagca gtaacagcac aggtgtttta
+      181 gaggcagcta ataattcact tgttgttact acaacaaaac catctataac aacaccaaac
+      241 acagaatcat tacagaaaaa tgttgtcaca ccaacaactg gaacaactcc taaaggaaca
+      301 atcaccaatg aattacttaa aatgtctctg atgtcaacag ctactttttt aacaagtaaa
+      361 gatgaaggat tgaaagccac aaccactgat gtcaggaaga atgactccat catttcaaac
+      421 gtaacagtaa caagtgttac acttccaaat gctgtttcaa cattacaaag ttccaaaccc
+      481 aagagtagtg ttctacaacc agatgcatca ccttctaaaa ctggtacatt aacctcaata
+      541 ccagttacaa ttccagaaaa cacctcacag tctcaagtaa taggcactga gggtggaaaa
+      601 aatgcaagca cttcagcaac cagccggtct tattccagta ttattttgcc ggtggttatt
+      661 gctttgattg taataacact ttcagtattt gttctggtgg gtttgtaccg aatgtgctgg
+      721 aaggcagatc cgggcacacc agaaaatgga aatgatcaac ctcagtctga taaagagagc
+      781 gtgaagcttc ttaccgttaa gacaatttct catgagtctg gtgagcactc tgcacaagga
+      841 aaaaccaaga actgacagct tgaggaattc tctccacacc taggcaataa ttacgcttaa
+      901 tcttcagctt ctatgcacca agcgtggaaa aggagaaagt cctgcagaat caatcccgac
+      961 ttccatacct gctgctggac tgtaccagac gtctgtccca gtaaagtgat gtccagctga
+     1021 catgcaataa tttgatggaa tcaaaaagaa ccccggggct ctcctgttct ctcacattta
+     1081 aaaattccat tactccattt acaggagcgt tcctaggaaa aggaatttta ggaggagaat
+     1141 ttgtgagcag tgaatctgac agcccaggag gtgggctcgc tgataggcat gactttcctt
+     1201 aatgtttaaa gttttccggg ccaagaattt ttatccatga agactttcct acttttctca
+     1261 gtgttcttat attacctact gttagtattt attgtttacc actatgttaa tgcagggaaa
+     1321 agttgcacgt gtattattaa atattaggta gaaatcatac catgctactt tgtacatata
+     1381 agtattttat tcctgctttc gtgttacttt taataaataa ctactgtact caatactcta
+     1441 aaaatactat aacatgactg tgaaaatggc aatgttattg tcttcctata attatgaata
+     1501 tttttggatg gattattaga atacatgaac tcactaatga aaggcatttg taataagtca
+     1561 gaaagggaca tacgattcac atatcagact gttaggggga gagtaattta tcagttcttt
+     1621 ggtctttcta tttgtcattc atactatgtg atgaagatgt aagtgcaagg gcatttataa
+     1681 cactatactg cattcattaa gataatagga tcatgatttt tcattaactc atttgattga
+     1741 tattatctcc atgcattttt tatttctttt agaaatgtaa ttatttgctc tagcaatcat
+     1801 tgctaacctc tagtttgtag aaaatcaaca ctttataaat acataattat gatattattt
+     1861 ttcattgtat cactgttcta aaaataccat atgattatag ctgccactcc atcaggagca
+     1921 aattcttctg ttaaaagcta actgatcaac cttgaccact tttttgacat gtgagatcaa
+     1981 agtgtcaagt tggctgaggt tttttggaaa gctttagaac taataagctg ctggtggcag
+     2041 ctttgtaacg tatgattatc taagctgatt ttgatgctaa attatcttag tgatctaagg
+     2101 ggcagtttag tgaagatgga atcttgtatt taaaatagcc ttttaaaatt tgttttgtgg
+     2161 tgatgtattt tgacaacttc catctttagg agttatataa tcaccttgat tttagtttcc
+     2221 tgatgtttgg actatttata atcaaggaca ccaagcaagc ataagcatat ctatatttct
+     2281 gactggtgtc tctttgagaa ggatgggaag tagaaaaaaa aaaaagaaag aaaggaaagg
+     2341 aagagaggag agaagaaggc agggatctcc actatgtatg ttttcacttt agaactgttg
+     2401 agcccatgct taattttaat ctagaagtct ttaaatggtg agacagtgac tggagcatgc
+     2461 caatcagaga gcatttgtct tcagaaaaaa aaaaaatctg agtttgagac tagcctggcc
+     2521 aacatgttga aaccccatat ctactaaaaa tacaaaaatt agcctggtgt ggtggcgcac
+     2581 gcctgtagtc ccagctactc tggagcctga ggaacgtgaa tcgcttgaac ccagaagaca
+     2641 gaggttgcag tgagctgaga tggcactatt gcactccagc ctgggtgaca cagcaagact
+     2701 ctgtctcaaa aaaaaaaaaa aaaaaaagga aaaaaaagaa agaaagaaag tcccagcaca
+     2761 cctagataat ttaccgagct cttcagcaaa aaccatgtta catacagcat attccaaaga
+     2821 aatgaactct tctgcaattt aaattataag taatatgtta ttttggatcc tagagaaacc
+     2881 attttctcta catttcatga gcatggttag aaaagagttt acaagaatta ggaagaggga
+     2941 acaattttaa tggtcagaaa agaataaaat ttattctagt tcaagaagtg cacacaaaga
+     3001 atatgcatta atctaacaac tatgagatta aatctttcaa aaaggtcaaa ggaggattga
+     3061 gaagtttaca gagatgtcca cggcatttta tatcaatctc aaaggtaagg tctgcatttt
+     3121 tataaaccaa cttaaacttc tgttgagata ggatattttg ttttcaagcc aaaattacca
+     3181 ttaatcaaat atgttttaat tatctgattt agatgatcta ctttttatgc ctggcttact
+     3241 gtaagttttt tattctgata cacagttcaa acatcattgc aacaaagaag tgcctgtatt
+     3301 tagatcaaag gcaagacttt ctatgtgttt gttttgcata ataatatgaa tataatttaa
+     3361 gtctatcaat agtcaaaaca taaacaaaag ctaattaact ggcactgttg tcacctgaga
+     3421 ctaagtggat gttgttggct gacatacagg ctcagccagc agagaaagaa ttctgaattc
+     3481 cccttgctga actgaactat tctgttacat atggttgaca aatctgtgtg ttatttcttt
+     3541 tctacctacc atatttaaat ttatgagtat caaccgagga catagtcaaa ccttcgatga
+     3601 tgaacattcc tgattttttg cctgattatt ctctgttgag ctctacttgt ggtcattcaa
+     3661 gattttatga tgttgaaagg aaaagtgaat atgaccttta aaaattgtat tttgggtgat
+     3721 gatagtctca ccactataaa actgtcaatt attgcctaat gttaaagata tccatcattg
+     3781 tgattaatta aacctataat gagtattctt aatggagaat tcttaatgga tggattatcc
+     3841 cctgatcttt tctttaaaat ttctctgcac acacaggact tctcattttc caataaatgg
+     3901 gtgtactctg ccccaatttc tagggaa
+//
+

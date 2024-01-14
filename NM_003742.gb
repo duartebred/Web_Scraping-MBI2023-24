@@ -1,0 +1,641 @@
+LOCUS       NM_003742               6934 bp    mRNA    linear   PRI 21-NOV-2023
+DEFINITION  Homo sapiens ATP binding cassette subfamily B member 11 (ABCB11),
+            mRNA.
+ACCESSION   NM_003742
+VERSION     NM_003742.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 6934)
+  AUTHORS   Liu H, Irobalieva RN, Kowal J, Ni D, Nosol K, Bang-Sorensen R,
+            Lancien L, Stahlberg H, Stieger B and Locher KP.
+  TITLE     Structural basis of bile salt extrusion and small-molecule
+            inhibition in human BSEP
+  JOURNAL   Nat Commun 14 (1), 7296 (2023)
+   PUBMED   37949847
+  REMARK    GeneRIF: Structural basis of bile salt extrusion and small-molecule
+            inhibition in human BSEP.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 6934)
+  AUTHORS   Pfister ED, Jaeger VK, Karch A, Shay D, Schukfeh N, Ohlendorf J,
+            Junge N, Goldschmidt I, Stalke A, Keitel-Anselmino V and Baumann U.
+  TITLE     Native liver survival in bile salt export pump deficiency: results
+            of a retrospective cohort study
+  JOURNAL   Hepatol Commun 7 (4), e0092 (2023)
+   PUBMED   36995996
+  REMARK    GeneRIF: Native liver survival in bile salt export pump deficiency:
+            results of a retrospective cohort study.
+            Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 6934)
+  AUTHORS   Nayagam JS, Foskett P, Strautnieks S, Agarwal K, Miquel R, Joshi D
+            and Thompson RJ.
+  TITLE     Clinical phenotype of adult-onset liver disease in patients with
+            variants in ABCB4, ABCB11, and ATP8B1
+  JOURNAL   Hepatol Commun 6 (10), 2654-2664 (2022)
+   PUBMED   35894240
+  REMARK    GeneRIF: Clinical phenotype of adult-onset liver disease in
+            patients with variants in ABCB4, ABCB11, and ATP8B1.
+REFERENCE   4  (bases 1 to 6934)
+  AUTHORS   Selim N, Omair H, El-Karaksy H, Fathy M, Mahmoud E, Baroudy S,
+            Fathy M and Yassin N.
+  TITLE     A study of exons 14, 15, and 24 of the ABCB11 gene in Egyptian
+            children with normal GGT cholestasis
+  JOURNAL   Arab J Gastroenterol 23 (1), 15-19 (2022)
+   PUBMED   35153175
+  REMARK    GeneRIF: A study of exons 14, 15, and 24 of the ABCB11 gene in
+            Egyptian children with normal GGT cholestasis.
+REFERENCE   5  (bases 1 to 6934)
+  AUTHORS   Wang R, Salem M, Yousef IM, Tuchweber B, Lam P, Childs SJ, Helgason
+            CD, Ackerley C, Phillips MJ and Ling V.
+  TITLE     Targeted inactivation of sister of P-glycoprotein gene (spgp) in
+            mice results in nonprogressive but persistent intrahepatic
+            cholestasis
+  JOURNAL   Proc Natl Acad Sci U S A 98 (4), 2011-2016 (2001)
+   PUBMED   11172067
+REFERENCE   6  (bases 1 to 6934)
+  AUTHORS   Jansen PL, Strautnieks SS, Jacquemin E, Hadchouel M, Sokal EM,
+            Hooiveld GJ, Koning JH, De Jager-Krikken A, Kuipers F, Stellaard F,
+            Bijleveld CM, Gouw A, Van Goor H, Thompson RJ and Muller M.
+  TITLE     Hepatocanalicular bile salt export pump deficiency in patients with
+            progressive familial intrahepatic cholestasis
+  JOURNAL   Gastroenterology 117 (6), 1370-1379 (1999)
+   PUBMED   10579978
+REFERENCE   7  (bases 1 to 6934)
+  AUTHORS   Strautnieks SS, Bull LN, Knisely AS, Kocoshis SA, Dahl N, Arnell H,
+            Sokal E, Dahan K, Childs S, Ling V, Tanner MS, Kagalwalla AF,
+            Nemeth A, Pawlowska J, Baker A, Mieli-Vergani G, Freimer NB,
+            Gardiner RM and Thompson RJ.
+  TITLE     A gene encoding a liver-specific ABC transporter is mutated in
+            progressive familial intrahepatic cholestasis
+  JOURNAL   Nat Genet 20 (3), 233-238 (1998)
+   PUBMED   9806540
+REFERENCE   8  (bases 1 to 6934)
+  AUTHORS   Gerloff T, Stieger B, Hagenbuch B, Madon J, Landmann L, Roth J,
+            Hofmann AF and Meier PJ.
+  TITLE     The sister of P-glycoprotein represents the canalicular bile salt
+            export pump of mammalian liver
+  JOURNAL   J Biol Chem 273 (16), 10046-10050 (1998)
+   PUBMED   9545351
+REFERENCE   9  (bases 1 to 6934)
+  AUTHORS   Amendola,M. and Squires,J.E.
+  TITLE     Pediatric Genetic Cholestatic Liver Disease Overview
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   36108118
+REFERENCE   10 (bases 1 to 6934)
+  AUTHORS   Bull,L.N., Morotti,R. and Squires,J.E.
+  TITLE     ATP8B1 Deficiency
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301474
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC008177.3, AF091582.1,
+            AC069137.6 and CB161524.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On May 8, 2018 this sequence version replaced NM_003742.3.
+            
+            Summary: The membrane-associated protein encoded by this gene is a
+            member of the superfamily of ATP-binding cassette (ABC)
+            transporters. ABC proteins transport various molecules across
+            extra- and intra-cellular membranes. ABC genes are divided into
+            seven distinct subfamilies (ABC1, MDR/TAP, MRP, ALD, OABP, GCN20,
+            White). This protein is a member of the MDR/TAP subfamily. Members
+            of the MDR/TAP subfamily are involved in multidrug resistance. The
+            protein encoded by this gene is the major canalicular bile salt
+            export pump in man. Mutations in this gene cause a form of
+            progressive familial intrahepatic cholestases which are a group of
+            inherited disorders with severe cholestatic liver disease from
+            early infancy. [provided by RefSeq, Jul 2008].
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AF091582.1, AF136523.1 [ECO:0000332]
+            RNAseq introns              :: mixed sample support SAMEA1965299,
+                                           SAMEA1966682 [ECO:0006172]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000650372.1/ ENSP00000497931.1
+            RefSeq Select criteria :: based on manual assertion, conservation,
+                                      expression
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-1                 AC008177.3         92136-92136         c
+            2-1141              AF091582.1         1-1140
+            1142-1142           AC008177.3         46990-46990         c
+            1143-4169           AF091582.1         1142-4168
+            4170-6928           AC069137.6         90425-93183         c
+            6929-6934           CB161524.1         17-22               c
+FEATURES             Location/Qualifiers
+     source          1..6934
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="2"
+                     /map="2q31.1"
+     gene            1..6934
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="ATP binding cassette subfamily B member 11"
+                     /db_xref="GeneID:8647"
+                     /db_xref="HGNC:HGNC:42"
+                     /db_xref="MIM:603201"
+     exon            1..100
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    8..10
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="upstream in-frame stop codon"
+     exon            101..203
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             128..4093
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="progressive familial intrahepatic cholestasis 2;
+                     ABC member 16, MDR/TAP subfamily; sister p-glycoprotein;
+                     ATP-binding cassette sub-family B member 11; ATP-binding
+                     cassette, sub-family B (MDR/TAP), member 11"
+                     /codon_start=1
+                     /product="bile salt export pump"
+                     /protein_id="NP_003733.2"
+                     /db_xref="CCDS:CCDS46444.1"
+                     /db_xref="GeneID:8647"
+                     /db_xref="HGNC:HGNC:42"
+                     /db_xref="MIM:603201"
+                     /translation="MSDSVILRSIKKFGEENDGFESDKSYNNDKKSRLQDEKKGDGVR
+                     VGFFQLFRFSSSTDIWLMFVGSLCAFLHGIAQPGVLLIFGTMTDVFIDYDVELQELQI
+                     PGKACVNNTIVWTNSSLNQNMTNGTRCGLLNIESEMIKFASYYAGIAVAVLITGYIQI
+                     CFWVIAAARQIQKMRKFYFRRIMRMEIGWFDCNSVGELNTRFSDDINKINDAIADQMA
+                     LFIQRMTSTICGFLLGFFRGWKLTLVIISVSPLIGIGAATIGLSVSKFTDYELKAYAK
+                     AGVVADEVISSMRTVAAFGGEKREVERYEKNLVFAQRWGIRKGIVMGFFTGFVWCLIF
+                     LCYALAFWYGSTLVLDEGEYTPGTLVQIFLSVIVGALNLGNASPCLEAFATGRAAATS
+                     IFETIDRKPIIDCMSEDGYKLDRIKGEIEFHNVTFHYPSRPEVKILNDLNMVIKPGEM
+                     TALVGPSGAGKSTALQLIQRFYDPCEGMVTVDGHDIRSLNIQWLRDQIGIVEQEPVLF
+                     STTIAENIRYGREDATMEDIVQAAKEANAYNFIMDLPQQFDTLVGEGGGQMSGGQKQR
+                     VAIARALIRNPKILLLDMATSALDNESEAMVQEVLSKIQHGHTIISVAHRLSTVRAAD
+                     TIIGFEHGTAVERGTHEELLERKGVYFTLVTLQSQGNQALNEEDIKDATEDDMLARTF
+                     SRGSYQDSLRASIRQRSKSQLSYLVHEPPLAVVDHKSTYEEDRKDKDIPVQEEVEPAP
+                     VRRILKFSAPEWPYMLVGSVGAAVNGTVTPLYAFLFSQILGTFSIPDKEEQRSQINGV
+                     CLLFVAMGCVSLFTQFLQGYAFAKSGELLTKRLRKFGFRAMLGQDIAWFDDLRNSPGA
+                     LTTRLATDASQVQGAAGSQIGMIVNSFTNVTVAMIIAFSFSWKLSLVILCFFPFLALS
+                     GATQTRMLTGFASRDKQALEMVGQITNEALSNIRTVAGIGKERRFIEALETELEKPFK
+                     TAIQKANIYGFCFAFAQCIMFIANSASYRYGGYLISNEGLHFSYVFRVISAVVLSATA
+                     LGRAFSYTPSYAKAKISAARFFQLLDRQPPISVYNTAGEKWDNFQGKIDFVDCKFTYP
+                     SRPDSQVLNGLSVSISPGQTLAFVGSSGCGKSTSIQLLERFYDPDQGKVMIDGHDSKK
+                     VNVQFLRSNIGIVSQEPVLFACSIMDNIKYGDNTKEIPMERVIAAAKQAQLHDFVMSL
+                     PEKYETNVGSQGSQLSRGEKQRIAIARAIVRDPKILLLDEATSALDTESEKTVQVALD
+                     KAREGRTCIVIAHRLSTIQNADIIAVMAQGVVIEKGTHEELMAQKGAYYKLVTTGSPI
+                     S"
+     misc_feature    173..238
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    314..376
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2);
+                     transmembrane region"
+     misc_feature    452..454
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:17082223; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2); glycosylation site"
+     misc_feature    473..475
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:17082223; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2); glycosylation site"
+     misc_feature    491..493
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:17082223; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2); glycosylation site"
+     misc_feature    500..502
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:17082223; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2); glycosylation site"
+     misc_feature    569..631
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2);
+                     transmembrane region"
+     misc_feature    773..835
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2);
+                     transmembrane region"
+     misc_feature    848..910
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2);
+                     transmembrane region"
+     misc_feature    1085..1147
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2);
+                     transmembrane region"
+     misc_feature    1187..1249
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2);
+                     transmembrane region"
+     misc_feature    1883..1885
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2); phosphorylation site"
+     misc_feature    1886..1888
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2); phosphorylation site"
+     misc_feature    2078..2143
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2);
+                     Region: Interaction with HAX1. /evidence=ECO:0000250"
+     misc_feature    2195..2197
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q9QY30; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2); phosphorylation site"
+     misc_feature    2228..2230
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:O70127; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2); phosphorylation site"
+     misc_feature    2237..2239
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2); phosphorylation site"
+     misc_feature    2393..2455
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2);
+                     transmembrane region"
+     misc_feature    2510..2572
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2);
+                     transmembrane region"
+     misc_feature    2735..2797
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2);
+                     transmembrane region"
+     misc_feature    2798..2860
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2);
+                     transmembrane region"
+     misc_feature    3065..3127
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2);
+                     transmembrane region"
+     misc_feature    3161..3223
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2);
+                     transmembrane region"
+     misc_feature    3767..3769
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2); phosphorylation site"
+     misc_feature    4058..4069
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95342.2);
+                     Region: Mediates internalization from the plasma membrane.
+                     /evidence=ECO:0000269|PubMed:22262466"
+     misc_feature    4088..4090
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:O70127; propagated from
+                     UniProtKB/Swiss-Prot (O95342.2); phosphorylation site"
+     exon            204..225
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            226..277
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            278..516
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            517..604
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            605..738
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            739..910
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            911..1035
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1036..1210
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1211..1324
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1325..1435
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1436..1561
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1562..1765
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1766..1936
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1937..2138
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2139..2202
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2203..2305
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2306..2470
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2471..2575
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2576..2737
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2738..2941
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2942..3183
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3184..3340
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3341..3538
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3539..3745
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3746..3892
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3893..6934
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      6207..6212
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+                     /note="hexamer: AATAAA"
+     polyA_site      6229
+                     /gene="ABCB11"
+                     /gene_synonym="ABC16; BRIC2; BSEP; PFIC-2; PFIC2; PGY4;
+                     SPGP"
+ORIGIN      
+        1 agaatgatga aaaccgaggt tggaaaaggt tgtgaaacct tttaactctc cacagtggag
+       61 tccattattt cctctggctt cctcaaattc atattcacag ggtcgttggc tgtgggttgc
+      121 aattaccatg tctgactcag taattcttcg aagtataaag aaatttggag aggagaatga
+      181 tggttttgag tcagataaat catataataa tgataagaaa tcaaggttac aagatgagaa
+      241 gaaaggtgat ggcgttagag ttggcttctt tcaattgttt cggttttctt catcaactga
+      301 catttggctg atgtttgtgg gaagtttgtg tgcatttctc catggaatag cccagccagg
+      361 cgtgctactc atttttggca caatgacaga tgtttttatt gactacgacg ttgagttaca
+      421 agaactccag attccaggaa aagcatgtgt gaataacacc attgtatgga ctaacagttc
+      481 cctcaaccag aacatgacaa atggaacacg ttgtgggttg ctgaacatcg agagcgaaat
+      541 gatcaaattt gccagttact atgctggaat tgctgtcgca gtacttatca caggatatat
+      601 tcaaatatgc ttttgggtca ttgccgcagc tcgtcagata cagaaaatga gaaaatttta
+      661 ctttaggaga ataatgagaa tggaaatagg gtggtttgac tgcaattcag tgggggagct
+      721 gaatacaaga ttctctgatg atattaataa aatcaatgat gccatagctg accaaatggc
+      781 ccttttcatt cagcgcatga cctcgaccat ctgtggtttc ctgttgggat ttttcagggg
+      841 ttggaaactg accttggtta ttatttctgt cagccctctc attgggattg gagcagccac
+      901 cattggtctg agtgtgtcca agtttacgga ctatgagctg aaggcctatg ccaaagcagg
+      961 ggtggtggct gatgaagtca tttcatcaat gagaacagtg gctgcttttg gtggtgagaa
+     1021 aagagaggtt gaaaggtatg agaaaaatct tgtgttcgcc cagcgttggg gaattagaaa
+     1081 aggaatagtg atgggattct ttactggatt cgtgtggtgt ctcatctttt tgtgttatgc
+     1141 actggccttc tggtacggct ccacacttgt cctggatgaa ggagaatata caccaggaac
+     1201 ccttgtccag attttcctca gtgtcatagt aggagcttta aatcttggca atgcctctcc
+     1261 ttgtttggaa gcctttgcaa ctggacgtgc agcagccacc agcatttttg agacaataga
+     1321 caggaaaccc atcattgact gcatgtcaga agatggttac aagttggatc gaatcaaggg
+     1381 tgaaattgaa ttccataatg tgaccttcca ttatccttcc agaccagagg tgaagattct
+     1441 aaatgacctc aacatggtca ttaaaccagg ggaaatgaca gctctggtag gacccagtgg
+     1501 agctggaaaa agtacagcac tgcaactcat tcagcgattc tatgacccct gtgaaggaat
+     1561 ggtgaccgtg gatggccatg acattcgctc tcttaacatt cagtggctta gagatcagat
+     1621 tgggatagtg gagcaagagc cagttctgtt ctctaccacc attgcagaaa atattcgcta
+     1681 tggcagagaa gatgcaacaa tggaagacat agtccaagct gccaaggagg ccaatgccta
+     1741 caacttcatc atggacctgc cacagcaatt tgacaccctt gttggagaag gaggaggcca
+     1801 gatgagtggt ggccagaaac aaagggtagc tatcgccaga gccctcatcc gaaatcccaa
+     1861 gattctgctt ttggacatgg ccacctcagc tctggacaat gagagtgaag ccatggtgca
+     1921 agaagtgctg agtaagattc agcatgggca cacaatcatt tcagttgctc atcgcttgtc
+     1981 tacggtcaga gctgcagata ccatcattgg ttttgaacat ggcactgcag tggaaagagg
+     2041 gacccatgaa gaattactgg aaaggaaagg tgtttacttc actctagtga ctttgcaaag
+     2101 ccagggaaat caagctctta atgaagagga cataaaggat gcaactgaag atgacatgct
+     2161 tgcgaggacc tttagcagag ggagctacca ggatagttta agggcttcca tccggcaacg
+     2221 ctccaagtct cagctttctt acctggtgca cgaacctcca ttagctgttg tagatcataa
+     2281 gtctacctat gaagaagata gaaaggacaa ggacattcct gtgcaggaag aagttgaacc
+     2341 tgccccagtt aggaggattc tgaaattcag tgctccagaa tggccctaca tgctggtagg
+     2401 gtctgtgggt gcagctgtga acgggacagt cacacccttg tatgcctttt tattcagcca
+     2461 gattcttggg actttttcaa ttcctgataa agaggaacaa aggtcacaga tcaatggtgt
+     2521 gtgcctactt tttgtagcaa tgggctgtgt atctcttttc acccaatttc tacagggata
+     2581 tgcctttgct aaatctgggg agctcctaac aaaaaggcta cgtaaatttg gtttcagggc
+     2641 aatgctgggg caagatattg cctggtttga tgacctcaga aatagccctg gagcattgac
+     2701 aacaagactt gctacagatg cttcccaagt tcaaggggct gccggctctc agatcgggat
+     2761 gatagtcaat tccttcacta acgtcactgt ggccatgatc attgccttct cctttagctg
+     2821 gaagctgagc ctggtcatct tgtgcttctt ccccttcttg gctttatcag gagccacaca
+     2881 gaccaggatg ttgacaggat ttgcctctcg agataagcag gccctggaga tggtgggaca
+     2941 gattacaaat gaagccctca gtaacatccg cactgttgct ggaattggaa aggagaggcg
+     3001 gttcattgaa gcacttgaga ctgagctgga gaagcccttc aagacagcca ttcagaaagc
+     3061 caatatttac ggattctgct ttgcctttgc ccagtgcatc atgtttattg cgaattctgc
+     3121 ttcctacaga tatggaggtt acttaatctc caatgagggg ctccatttca gctatgtgtt
+     3181 cagggtgatc tctgcagttg tactgagtgc aacagctctt ggaagagcct tctcttacac
+     3241 cccaagttat gcaaaagcta aaatatcagc tgcacgcttt tttcaactgc tggaccgaca
+     3301 acccccaatc agtgtataca atactgcagg tgaaaaatgg gacaacttcc aggggaagat
+     3361 tgattttgtt gattgtaaat ttacatatcc ttctcgacct gactcgcaag ttctgaatgg
+     3421 tctctcagtg tcgattagtc cagggcagac actggcgttt gttgggagca gtggatgtgg
+     3481 caaaagcact agcattcagc tgttggaacg tttctatgat cctgatcaag ggaaggtgat
+     3541 gatagatggt catgacagca aaaaagtaaa tgtccagttc ctccgctcaa acattggaat
+     3601 tgtttcccag gaaccagtgt tgtttgcctg tagcataatg gacaatatca agtatggaga
+     3661 caacaccaaa gaaattccca tggaaagagt catagcagct gcaaaacagg ctcagctgca
+     3721 tgattttgtc atgtcactcc cagagaaata tgaaactaac gttgggtccc aggggtctca
+     3781 actctctaga ggggagaaac aacgcattgc tattgctcgg gccattgtac gagatcctaa
+     3841 aatcttgcta ctagatgaag ccacttctgc cttagacaca gaaagtgaaa agacggtgca
+     3901 ggttgctcta gacaaagcca gagagggtcg gacctgcatt gtcattgccc atcgcttgtc
+     3961 caccatccag aacgcggata tcattgctgt catggcacag ggggtggtga ttgaaaaggg
+     4021 gacccatgaa gaactgatgg cccaaaaagg agcctactac aaactagtca ccactggatc
+     4081 ccccatcagt tgacccaatg caagaatctc agacacacat gacgcaccag ttacaggggt
+     4141 tgtttttaaa gaaaaaaaca atcccagcag gagggattgc tgggattgtt ttttctttaa
+     4201 agaagaatgt taatatttta cttttacagt cattttccta catcggaatc caagctaatt
+     4261 tctaatggcc ttccataata attctgcttt agatgtgtat acagaaaatg aaagaaacta
+     4321 gggtccatat gagggaaaac ccaatgtcaa gtggcagctc agccaccact cagtgcttct
+     4381 ctgtgcagga gccagtcctg attaatatgt gggaattagt gagacatcag ggagtaagtg
+     4441 acactttgaa ctcctcaagg gcagagaact gtctttcatt tttgaaccct cggtgtacac
+     4501 agaggcgggt ctataacagg caatcaacaa acgtttcttg agctagacca aggtcagatt
+     4561 tgaaaagaac agaaggactg aagaccagct gtgtttctta actaaatttg tctttcaagt
+     4621 gaaaccagct tccttcatct ctaaggctaa ggatagggaa agggtggatg ctctcaggct
+     4681 gagggaggca gaaagggaaa gtattagcat gagctttcca gttagggctg ttgatttatg
+     4741 ctttaacttc agagtgagtg taggggtggt gatgctacca ttactgtgag gacctaccag
+     4801 tgtggctgga gcagggactc tctcccaggc cttttactcc tcagcacctc cctgcatact
+     4861 gattgttgtt tttagtttct gtgaaattat attcatgaaa tgaaaatagc gcattttact
+     4921 ttgctgtagt ttcataaggt tttatacaaa aaagcaagta aatatggcag aaaagcactc
+     4981 atttgcccct gctccctcaa aacaccacag aatgacatag aactaaaggc ggcaggaatc
+     5041 tacaagaatg aagaaaacac agtgatgcca cctgcaaaat cttgggagcc agaaagcaaa
+     5101 tggacaattg ataatagagt tacaagatga gagaaaacaa aaatgtaacc tgttagttgg
+     5161 gggagcctag aaacatcctg ttttgtacca cagaccccta gaaagtttca agatgtaaaa
+     5221 acactggatc cttctggaag gaggagacaa ggggacagag ggactgaaga cagaagaatg
+     5281 gaccaaaagc ctgtatggaa acagaattgc agagccccgc ctgcagcagg atggctgcct
+     5341 ttccccagtt ccagcgagaa actgcatact ccctctctga ggaggctcac agggaggttt
+     5401 gcacttagag acacaagatg aagttgaagg ggcagctaac atacaagaga cagggggatt
+     5461 gaatgtaaag ctgtgtatga acagaagaac tcccagcccc tctcttctgg caggagattg
+     5521 aagaatgatt ttctggggaa attggccaat cttagaaaag aggtcgggcc aggcgctgtg
+     5581 gctcactcct gtaatcccag cactttggga ggccaaggcg ggcggatcat gaggtcgaga
+     5641 gattgagacc atcctggcta acatggtgaa accccgtctc tactaaaaat acaaaaaaat
+     5701 tagccgggcg tggtggcggg cgcctgtagt cccagctact caggaggctg aggcaggaga
+     5761 atggcgtgaa cccgggaggt ggagcttgca gtgagccgag atcgcgccac tgcactccag
+     5821 cctgggcgac agagcgaaaa aaaaaaaaaa agaaaaagaa aaagaaaaga ggtcaaggac
+     5881 tccgtccttg gaatcctaag aaaattttcc agccgtatta cccttctatg aagcccacct
+     5941 gtcaaccaac aagcacccac tcgatcagag cttccccagg ctttttggtg tctcctcctt
+     6001 gcatgggaat tgacttccaa ggaccaccag acactgagga agtattttaa catataaagc
+     6061 aaaagcaaca atagggcagc tggagaaagg aaattagaag taacagagcc aatgcagtga
+     6121 ttagaaaaac actcaaaaaa tggtaataaa tgtgttcaat gggtcaagag aacatatttc
+     6181 catctattta aataaaaaca ggaatcaata aaagtgaaca tacaaaaaag agctcttgtc
+     6241 acagaaatga aaaccttggg agcaggactg cacccacggt tcccaccaac ctatcctgcc
+     6301 atcatgtttt ctccctactc cagcttcctc ccaagctcac tctacgtaga tggtttttct
+     6361 tcccttagcc aacaaacgaa attctgccta taaattaagc caggacacta ggatatggag
+     6421 gtatattatt tatgtctctt ttccagtgtt tcctggtata taacagcaaa gatggtttag
+     6481 caagttaact ggtcaggcca gaattcttga tggttgccaa gtcaggaggc agacggtgaa
+     6541 ggaatgcatt ctggttatga aaaatggcaa tgacgagtaa gttgcagagt aaagatgcct
+     6601 tttagaggaa attaaggttt gcaataaatg catgctaatc ctctaatttt gatgaaagac
+     6661 taaagctctt gttttggttt gcatttcaaa gagcaagagc ataggctctt gtgctgggag
+     6721 gtggccagtt tcctggaaag gaatttatgg agtctgaaag aggaattagt acaaattata
+     6781 ttttcaaata agatacttga aagttattga tgacagggaa aagattgtct aaagagggct
+     6841 tgaaattggg gaaataattg aggctcagtg acaaaggaga agattacaac ttcaaaaatg
+     6901 aataaataaa taacattgca tgtttatttt acaa
+//
+
