@@ -1,14 +1,17 @@
 import requests
 from bs4 import BeautifulSoup
 import re
-import mysql.connector as SQLC
 import pandas as pd
 import time
 import sys
-
+import pymysql
 
 
 def save_genbank(text):
+
+    """
+    Função que recebe a informação de um gene do ncbi e guarda num ficheiro formato gb
+    """
 
     match = re.search(r'LOCUS\s+(.*?)\s+\b', text)
 
@@ -25,6 +28,10 @@ def save_genbank(text):
 
 def parse_genbank(locus):
     
+    """
+    Extração de alguns dados do registo Genbank e retorna um tuplo com os dados de interesse: 
+    "id", "organismo" e "sequência"
+    """
     i = re.match(r'LOCUS\s+(\w+)', locus)
     if i:
         id = i.group(1)
@@ -46,6 +53,10 @@ def parse_genbank(locus):
 
 def get_genbank(gene):
 
+    """
+    Vai buscar o registo a partir do nome do gene
+    """
+
     url = f'https://www.ncbi.nlm.nih.gov/nuccore/{gene}'
     r = requests.get(url)
     soup = BeautifulSoup(r.content, 'html.parser')
@@ -56,10 +67,10 @@ def get_genbank(gene):
 
 
 
-DataBase = SQLC.connect(
-   host ="127.0.0.1",
-   user ="DuarteVelho1",
-   password ="123duarte",
+DataBase = pymysql.connect(
+host ="127.0.0.1",
+user ="DuarteVelho1",
+password ="123duarte",
     database ="duartetrabalhos"
 )
 
@@ -78,10 +89,9 @@ TableName ="""CREATE TABLE IF NOT EXISTS genbank
 # Executamos os comandos com recurso ao cursor
 Cursor.execute(TableName)
 
-sql = "INSERT INTO genbank (locusid, dnasource, dnasequence) VALUES (%s, %s, %s)"
+sql = "INSERT IGNORE INTO genbank (locusid, dnasource, dnasequence) VALUES (%s, %s, %s)"
 
-for arg in sys.argv:
-    print(arg)
+for arg in sys.argv[1:]:
     content = get_genbank(arg)
     save_genbank(content)
     val = parse_genbank(content)
@@ -90,5 +100,8 @@ for arg in sys.argv:
 
 DataBase.commit()
 
+
+
 Cursor.close()
 DataBase.close()
+
