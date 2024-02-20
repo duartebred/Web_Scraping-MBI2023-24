@@ -13,4 +13,4 @@ Explicação do raciocínio e desafios:
 - Portanto, pega-se num documento e insere-se os dados do mesmo na base de dados. Os dados são lidos de um documento local. Não são lidos do site Genbank.
 
 
-A implementação das funções foi desenvolvida por Duarte Velho (PG53481).
+A implementação das funções foi desenvolvida por [Duarte Velho](https://github.com/duartebred) (PG53481).
